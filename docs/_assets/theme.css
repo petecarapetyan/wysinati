@@ -1,3 +1,7 @@
+#main-header a {
+  text-transform: none;
+}
+
 .ga-content3-l,
 .ga-content3-main,
 .ga-content3-r {
