@@ -11,5 +11,3 @@ pagination:
 ---
 
 # Future Blog
-
-Discover articles!
