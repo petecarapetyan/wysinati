@@ -1,10 +1,10 @@
 ---
 layout: layout-sidebar
-title: index
+title: Magna
 eleventyNavigation:
-  key: index
-  title: index
-  parent: magna
+  key: magna
+  title: Magna
+  parent: fugiat-excepteur
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---

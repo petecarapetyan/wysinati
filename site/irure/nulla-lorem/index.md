@@ -1,10 +1,10 @@
 ---
 layout: layout-sidebar
-title: index
+title: Nulla Lorem
 eleventyNavigation:
-  key: index
-  title: index
-  parent: nulla-lorem
+  key: nulla-lorem
+  title: Nulla Lorem
+  parent: irure
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---

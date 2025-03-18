@@ -1,10 +1,11 @@
 ---
 layout: layout-sidebar
-title: index
+title: Ipsum
 eleventyNavigation:
-  key: index
-  title: index
-  parent: ipsum
+  key: ipsum
+  title: Ipsum
+  parent:  non-commodo
+  
   # order: 42
 # FIXME - Values shown above are currently derived from the file path only, except order which is also commented out because it is optional. Correct as desired and delete comment(s).
 ---
