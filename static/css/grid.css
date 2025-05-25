@@ -95,10 +95,7 @@ body[layout='layout-home'] {
 .sidebar-grid-area {
   grid-area: content-side;
 }
-body[layout='layout-sidebar'],
-body[layout='layout-index'],
-body[layout='layout-blog-details'],
-body[layout='layout-blog-overview'] {
+body[layout='layout-sidebar'] {
   grid-auto-rows: 0; 
   grid-auto-columns: 0;
   overflow-x: hidden;
@@ -113,10 +110,7 @@ body[layout='layout-blog-overview'] {
 
 @media (max-width: 1024px) {
   body[layout='layout-home'],
-  body[layout='layout-sidebar'],
-  body[layout='layout-index'],
-  body[layout='layout-blog-details'],
-  body[layout='layout-blog-overview']  {
+  body[layout='layout-sidebar']  {
     display: grid;
     grid-template-columns: auto;
     grid-template-rows: 56px minmax(350px, 1fr) auto;
