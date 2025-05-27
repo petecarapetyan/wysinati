@@ -1,22 +1,15 @@
 ---
-title: Lorem Ipsum!
+title: Home
 layout: layout-home
 eleventyNavigation:
   key: /
   title: Home
   order: 999
 ---
-# WYSINATI
-
-WYISNATI is the inverse of WYSIATI, which is explained below.
-
-- WYSINATI What you see is NOT all there is
-- WYSIATI What you see is all there is
-
 ## What are the roots of WYSIATI?
 
 
-**WYSIATI** stands for **“What You See Is All There Is.”** It was coined by psychologist Daniel Kahneman in his book *Thinking, Fast and Slow* to describe a fundamental limitation of human reasoning:
+**WYSIATI** stands for _“**What You See Is All There Is.**”_ It was coined by psychologist Daniel Kahneman in his book *Thinking, Fast and Slow* to describe a fundamental limitation of human reasoning:
 
 > We tend to make decisions and form judgments based only on the information immediately available to us — and we largely ignore the possibility that there is relevant information we *don’t* see or don’t know.
 

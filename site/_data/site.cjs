@@ -2,13 +2,13 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'socreate',
-    description: 'not-codesign  theme',
+    name: 'WYSIANATI',
+    description: 'WYSINATI - What You See Is Not All There Is',
     socialLinks: [
       {
         name: 'GitHub',
         image: '/static/brand-logos/github.svg',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-wired/src/docs',
+        url: 'https://github.com/petecarapetyan/wysinati',
       },
       {
         name: 'Youtube',
@@ -21,10 +21,10 @@ module.exports = function () {
         url: 'https://www.linkedin.com/in/pete-carapetyan-b3a39b/',
       },
     ],
-    gitSiteUrl: 'https://github.com/petecarapetyan/fins-rocket-themes',
+    gitSiteUrl: 'https://github.com/petecarapetyan/wysinati',
     gitBranch: 'main',
     helpUrl: 'https://github.com/petecarapetyan/fins-rocket-themes/issues',
-    logoAlt: 'Rocket Logo',
+    logoAlt: 'WYSINATI',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
     iconColorThemeColor: '#1d3557',
